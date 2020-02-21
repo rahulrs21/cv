@@ -1,0 +1,10 @@
+.vertical
+{
+    border-left: 1px solid black;
+    height: 90px;
+    position: absolute;
+    left: 15.5%
+}
+li{
+    padding-bottom:10px;
+}
